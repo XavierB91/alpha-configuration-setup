@@ -31,3 +31,11 @@ GUI for sharing code and collaboration
 - branching allows multiple people to work on code at the same time
 - Branching is a best practice for all developers on all projects
 - the main branch is the source of truth and should only ever have working code
+
+
+
+### Branching Commands
+- $ `git checkout -b branch-name`
+- $ `git branch`- lists all the current branches on your local
+- $ `git branch -d branch-name`- deletes a branch when you are done
+- $`git checkout main`- navigates back to the main branch
