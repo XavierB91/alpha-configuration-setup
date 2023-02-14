@@ -11,14 +11,14 @@
 
 ### Vocabulary
 
--repository (repo)- a named folder on Github
--Git- version control software
--Github-online platform for git,
+- repository (repo)- a named folder on Github
+- Git- version control software
+- Github-online platform for git,
 GUI for sharing code and collaboration
--local - you personal computer
--commit- adding a tracking number and message to your version
--diff- the difference between states of your local and Github repository
--markdown (.md)- a text based
+- local - you personal computer
+- commit- adding a tracking number and message to your version
+- diff- the difference between states of your local and Github repository
+- markdown (.md)- a text based
 
 ### Git Process Notes
 - creat a new repo on Github
